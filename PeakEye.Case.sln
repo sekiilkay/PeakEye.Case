@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakEye.Repository", "PeakEye.Repository\PeakEye.Repository.csproj", "{1BBD897C-9059-499C-871C-5CC874316353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakEye.Service", "PeakEye.Service\PeakEye.Service.csproj", "{19757D28-7B4C-43D3-B5F5-4DA62F5EFBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakEye.API", "PeakEye.API\PeakEye.API.csproj", "{11159DF5-CCB5-4FB0-A40C-673FDADEF81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BBD897C-9059-499C-871C-5CC874316353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBD897C-9059-499C-871C-5CC874316353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBD897C-9059-499C-871C-5CC874316353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBD897C-9059-499C-871C-5CC874316353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19757D28-7B4C-43D3-B5F5-4DA62F5EFBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19757D28-7B4C-43D3-B5F5-4DA62F5EFBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19757D28-7B4C-43D3-B5F5-4DA62F5EFBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19757D28-7B4C-43D3-B5F5-4DA62F5EFBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11159DF5-CCB5-4FB0-A40C-673FDADEF81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11159DF5-CCB5-4FB0-A40C-673FDADEF81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11159DF5-CCB5-4FB0-A40C-673FDADEF81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11159DF5-CCB5-4FB0-A40C-673FDADEF81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
