@@ -1,5 +1,21 @@
 # PeakEye Case
 
+## Kullanılan Teknolojiler
+
+C#
+ASP.NET Core Web API
+Entity Framework Core
+PostgreSQL
+Docker
+
+## Design Pattern
+
+Repository ve UnitOfWork kullanılmıştır.
+
+## Database
+
+Veritabanı olarak docker üzerinden PostgreSQL kullanılmıştır.
+
 ## Endpoints
 
 ![5](https://github.com/user-attachments/assets/a8949b13-ca1e-4f2f-ab3c-713e652cd0b0)
@@ -35,14 +51,6 @@
 ### Silme
 
 ![15](https://github.com/user-attachments/assets/5e2e44da-5bc6-46f6-86ac-81ad1057b7e1)
-
-## Design Pattern
-
-Repository ve UnitOfWork kullanılmıştır.
-
-## Database
-
-Veritabanı olarak docker üzerinden PostgreSQL kullanılmıştır.
 
 ## Zafiyet Sınıfına Özel Metotlar
 
