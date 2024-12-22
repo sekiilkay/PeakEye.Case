@@ -2,11 +2,11 @@
 
 ## Kullanılan Teknolojiler
 
-### C#
-### ASP.NET Core Web API
-### Entity Framework Core
-### PostgreSQL
-### Docker
+- **C#**
+- **ASP.NET Core Web API**
+- **Entity Framework Core**
+- **PostgreSQL**
+- **Docker**
 
 ## Design Pattern
 
