@@ -36,6 +36,6 @@ namespace PeakEye.API.Controllers
 
         [HttpGet]
         [Route("GetVulnerabilitiesBySeverity")]
-        public async Task<IActionResult> GetVulnerabilitiesBySeverityAsync(int severity) => CreateActionResult(await vulnerabilityService.GetVulnerabilitiesBySeverityAsync(severity));
+        public async Task<IActionResult> GetVulnerabilitiesBySeverityAsync(double severity) => CreateActionResult(await vulnerabilityService.GetVulnerabilitiesBySeverityAsync(severity));
     }
 }
