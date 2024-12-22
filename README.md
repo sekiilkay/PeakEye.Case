@@ -10,6 +10,9 @@
 
 ![3](https://github.com/user-attachments/assets/202aa9ae-faf5-4cb6-af30-c02eac1e2fe7)
 
+Hata Mesajı
+![16](https://github.com/user-attachments/assets/d96b1350-b310-49e4-bc9b-07092b4f9ac4)
+
 ## Zafiyet
 
 ### Listeleme
