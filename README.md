@@ -34,3 +34,11 @@ Hata Mesajı
 ### Silme
 
 ![15](https://github.com/user-attachments/assets/5e2e44da-5bc6-46f6-86ac-81ad1057b7e1)
+
+## Design Pattern
+
+Repository ve UnitOfWork kullanılmıştır.
+
+## Database
+
+Veritabanı olarak docker üzerinden PostgreSQL kullanılmıştır.
