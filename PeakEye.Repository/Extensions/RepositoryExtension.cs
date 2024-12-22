@@ -2,6 +2,8 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using PeakEye.Repository.Context;
+using PeakEye.Repository.Repositories;
+using PeakEye.Repository.Vulnerabilities;
 
 namespace PeakEye.Repository.Extensions
 {
@@ -13,6 +15,10 @@ namespace PeakEye.Repository.Extensions
             {
                 opt.UseNpgsql(configuration.GetConnectionString("PostgreSql"));
             });
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IVulnerabilityRepository, VulnerabilityRepository>();
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
             return services;
         }
