@@ -43,3 +43,11 @@ Repository ve UnitOfWork kullanılmıştır.
 ## Database
 
 Veritabanı olarak docker üzerinden PostgreSQL kullanılmıştır.
+
+## Zafiyet Sınıfına Özel Metotlar
+
+![17](https://github.com/user-attachments/assets/96cf0a79-c0a4-4e62-b5c0-032d03f4cce4)
+
+![19](https://github.com/user-attachments/assets/d8be5c40-44b1-484c-bc83-ab94eed8fb42)
+
+![Ekran görüntüsü 2024-12-22 151751](https://github.com/user-attachments/assets/4ec0808b-046d-4ffe-b47b-c867df731925)
